@@ -1,1 +1,3 @@
 # Link-Prediction-in-Social-Networks
+In this paper, our aim is to analyze the structure of social networks and compute the different kinds of scores between any nodes in the network. We’ll begin by discussing some background of the problem statement. Then we will provide an overview of the methods that have been considered for calculating the similarity between any nodes in the social network. Once computed, we will then focus on the implementation of the
+Machine Learning models, where we will be training and testing our different models on the computed similarity scores. Finally, we will then analyze how effective our model is to predict future links in the social network by calculating several performance measures.
